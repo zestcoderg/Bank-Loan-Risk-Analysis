@@ -47,11 +47,11 @@ The bank observed a rising volume of "Charged Off" accounts but lacked visibilit
 ### 📉 Visual Insights
 
 **Risk Heatmap (Grade vs Purpose):**
-![Heatmap](Screenshots/risk_heatmap.png)
+![Heatmap](https://github.com/zestcoderg/Bank-Loan-Risk-Analysis/blob/main/risk_heatmap.png.png)
 *Clearly shows the high concentration of risk in specific segments.*
 
 **Vintage Trend:**
-![Vintage Chart](Screenshots/vintage_analysis.png)
+![Vintage Chart](https://github.com/zestcoderg/Bank-Loan-Risk-Analysis/blob/main/Vintage%20Analysis.png)
 *Visualizing the spike in default rates for late-2015 cohorts.*
 
 ---
