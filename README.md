@@ -10,8 +10,8 @@ While the overall portfolio default rate is stable at **11%**, the **Vintage Ana
 
 ### 📊 Dashboard Preview
 
-![Dashboard Overview](Screenshots/dashboard_overview.png)
-*(Note: To see the full interactive report, download the .pbix file from this repository)*
+![Dashboard Overview](https://github.com/zestcoderg/Bank-Loan-Risk-Analysis/blob/main/dashboard_overview.png.png)
+*(To see the full interactive report, download the .pbix file from this repository)*
 
 ---
 
